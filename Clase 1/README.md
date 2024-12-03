@@ -82,3 +82,10 @@ A continuación, clasifica el tipo de análisis utilizado en cada situación:
 7. **Un hospital investiga por qué un aumento en los casos de gripe ocurrió en un mes específico, analizando factores como el clima o la ubicación geográfica.**  
    - **Tipo de análisis**: Diagnóstico.
 
+Hablemos de operaciones matematicas: 
+
+Cuanto crees que da esta operacion 4+4*4 = ?
+
+listo!!!
+
+La respuesta es: 20
