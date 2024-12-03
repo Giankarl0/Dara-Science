@@ -82,15 +82,15 @@ A continuación, clasifica el tipo de análisis utilizado en cada situación:
 7. **Un hospital investiga por qué un aumento en los casos de gripe ocurrió en un mes específico, analizando factores como el clima o la ubicación geográfica.**  
    - **Tipo de análisis**: Diagnóstico.
 
-# Hablemos de operaciones matematicas: 
+**Hablemos de operaciones matematicas:**
 
-# Cuanto crees que da esta operacion 4+4*4 = ?
+**Cuanto crees que da esta operacion 4+4*4 = ?**
 
-# listo!!!
+**listo!!!**
 
-# La respuesta es: 20
+**La respuesta es: 20**
 
-# Ahora intenta con:
+**Ahora intenta con:**
 
 ## 📚 a) 4+8/2-3 
 ## 📚 b) 19+(22-8*2)-2
@@ -100,7 +100,7 @@ A continuación, clasifica el tipo de análisis utilizado en cada situación:
 
 Ya lo resolviste, vamos a ver la solucion 
 
-# Cálculo de las expresiones dadas
+**Cálculo de las expresiones dadas**
 
 ## 📚 a) 4+8/2-3 = 5
 ## 📚 b) 19+(22-8*2)-2 = 23
